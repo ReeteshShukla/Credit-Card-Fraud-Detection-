@@ -1,1 +1,2 @@
+This project aims to detect fraudulent credit card transactions using machine learning techniques. It includes data preprocessing, model training, and evaluation steps to identify potential fraudulent activities in credit card transactions.
 Feel free to expand upon this sentence to provide more details about your project, such as the specific machine learning algorithms used,the dataset utilized, any notable findings, or instructions for running the project.
